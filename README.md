@@ -1,4 +1,4 @@
-# Lightcurve classificartion with an LSTM neural network
+# Lightcurve classification with an LSTM neural network
 
 This repository contains a project for solving a classification problem of Lightcurves as part of the EAFEXP VI from CBPF.
 
